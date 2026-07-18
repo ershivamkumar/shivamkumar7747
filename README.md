@@ -32,7 +32,7 @@
 
 # About
 
-I am a Computer Science undergraduate focused on building production-ready software, intelligent applications, and scalable backend systems. My interests span Software Engineering, Artificial Intelligence, Data Science, Machine Learning, Full Stack Development, and Cloud Technologies.
+I am a Computer Science undergraduate focused on building production-ready software, intelligent applications, and scalable backend systems. My interests span Software Engineering, Artificial Intelligence, Data Science, Machine Learning, and Cloud Technologies.
 
 I enjoy transforming complex problems into efficient software solutions while continuously improving my engineering practices through open-source contributions, competitive programming, and real-world projects.
 
