@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=8B5CF6&lines=Software+Engineer;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Data+Science+Learner;Building+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=8B5CF6&lines=Data+Analyst;AI+%7C+Machine+Learning+Enthusiast;Data+Science+Learner;Building+Scalable+Solutions" />
 </p>
 
 <p align="center">
